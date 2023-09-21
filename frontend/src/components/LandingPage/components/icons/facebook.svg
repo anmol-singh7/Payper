@@ -1,0 +1,49 @@
+<svg width="37" height="36" viewBox="0 0 37 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="37" height="36" fill="#1E1E1E"/>
+<g id="Section 1">
+<path d="M-1607 -3865C-1607 -3866.1 -1606.1 -3867 -1605 -3867H595C596.104 -3867 597 -3866.1 597 -3865V580C597 581.104 596.104 582 595 582H-1605C-1606.1 582 -1607 581.104 -1607 580V-3865Z" fill="#404040"/>
+<g id="landing-hero v5">
+<rect width="1920" height="1080" transform="translate(-1465 -3725)" fill="#E5E5E5"/>
+<rect width="1920" height="1080" transform="translate(-1465 -3725)" fill="white" fill-opacity="0.3"/>
+<g id="Frame 208">
+<rect width="1920" height="4061" transform="translate(-1465 -3725)" fill="#E5E5E5"/>
+<rect width="1920" height="4061" transform="translate(-1465 -3725)" fill="white" fill-opacity="0.3"/>
+<g id="Frame 247">
+<rect id="Rectangle 90" x="-1465" y="18" width="1920" height="318" fill="#1A1F71"/>
+<g id="Frame 238">
+<g id="Rectangle 15" filter="url(#filter0_d_0_1)">
+<rect x="-1325" y="-380" width="1640" height="500" rx="20" fill="white"/>
+</g>
+<g id="Frame 248">
+<g id="Frame 251">
+<ellipse id="Ellipse 11" cx="18" cy="18" rx="34" ry="34" fill="#1A1F71"/>
+<g id="facebook 1" clip-path="url(#clip0_0_1)">
+<g id="Group">
+<path id="Vector" d="M33.5432 35.9978C29.4894 35.9982 22.5648 35.999 21.621 35.999V23.3783H25.8045L26.601 18.1567H21.621V14.7688C21.621 13.3396 22.317 11.9482 24.546 11.9482H26.8095V7.50236C26.8095 7.50236 24.7545 7.14922 22.791 7.14922C18.69 7.14922 16.0111 9.64983 16.0111 14.1757V18.1552H11.4526V23.3768H16.0111V35.9975C14.7252 35.9975 3.27073 36 2.45257 35.999C1.2253 35.9975 -0.00195312 34.7717 -0.00195312 33.5445C-0.00195313 32.8634 -0.00195312 2.45357 -0.00195312 2.45357C-0.00196395 1.2263 1.22531 -0.000976562 2.45257 -0.000976562H18.816C18.816 -0.000976562 32.725 -0.000976562 33.5432 -0.000976562C34.7704 -0.000976562 35.9977 1.2263 35.9977 2.45357C35.9977 3.27175 35.9977 33.5445 35.9977 33.5445C35.9977 34.7717 34.7704 35.9978 33.5432 35.9978Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M-1605 -3866H595V-3868H-1605V-3866ZM596 -3865V580H598V-3865H596ZM595 581H-1605V583H595V581ZM-1606 580V-3865H-1608V580H-1606ZM-1605 581C-1605.55 581 -1606 580.552 -1606 580H-1608C-1608 581.657 -1606.66 583 -1605 583V581ZM596 580C596 580.552 595.552 581 595 581V583C596.657 583 598 581.657 598 580H596ZM595 -3866C595.552 -3866 596 -3865.55 596 -3865H598C598 -3866.66 596.657 -3868 595 -3868V-3866ZM-1605 -3868C-1606.66 -3868 -1608 -3866.66 -1608 -3865H-1606C-1606 -3865.55 -1605.55 -3866 -1605 -3866V-3868Z" fill="white" fill-opacity="0.1"/>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-1338" y="-389" width="1666" height="526" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="3" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_0_1"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="35.9996" height="36" fill="white" transform="translate(0.00390625)"/>
+</clipPath>
+</defs>
+</svg>

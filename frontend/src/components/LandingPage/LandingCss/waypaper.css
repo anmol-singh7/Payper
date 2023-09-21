@@ -1,0 +1,83 @@
+.wayUpperBody{
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wayInnerBody{
+    width:90vw;
+    margin-top: 4.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.wayTittle{
+    color: #1A1F71;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: 74px; /* 112.121% */
+}
+
+.wayCardAlign1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 20px; */
+}
+.wayCardAlign2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 20px; */
+
+}
+
+.wayCard{
+    max-width: 25vw;
+    max-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 20px;
+background: #FFF;
+box-shadow: 0px 2px 10px 2px rgba(0, 0, 0, 0.25);
+margin: 10px;
+}
+
+.cardHeading{
+    color: #1A1F71;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-overflow: ellipsis;
+      display: -webkit-box;
+       -webkit-line-clamp: 0;
+     -webkit-box-orient: vertical;
+}
+
+.cardText{
+    overflow: hidden;
+     text-overflow: ellipsis;
+      display: -webkit-box;
+       -webkit-line-clamp: 3;
+     -webkit-box-orient: vertical;
+}
+
+.faq{
+    text-align: center;
+    color: #1A1F71;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;font-size: 60px;
+font-style: normal;
+font-size: 50px;
+font-weight: 600;
+line-height: 74px; /* 123.333% */
+}

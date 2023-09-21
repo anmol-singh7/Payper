@@ -1,0 +1,73 @@
+.tittleText{
+    color: #1A1F71;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 2.7rem;
+font-style: normal;
+font-weight: 600;
+line-height: 74px; /* 132.143% */
+margin-bottom: 10px;
+}
+
+.headerBtn{
+    display: flex;
+height: 3rem;
+width: 16rem;
+align-items: center;
+gap: 10px;
+border-radius: 15px;
+background: linear-gradient(0deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.30) 100%), #25D366;
+box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.25);
+
+
+}
+
+.headerBtnText{
+color: #000;
+text-align: center;
+padding: 0px 1rem;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1.3rem;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; /* 71.429% */
+}
+
+.TandC{
+    color: #1A1F71;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 10px;
+font-size: 15px;
+font-style: italic;
+font-weight: 600;
+line-height: normal;
+}
+
+.headerEmail{
+    display: flex;
+    margin-right: 10px;
+width: 30vw;
+height: 3rem;
+padding: 0px 32px;
+align-items: center;
+gap: 10px;
+border-radius: 15px;
+border: 2px solid #25D366;
+color: #1A1F71;
+text-align: start;
+leading-trim: both;
+text-edge: cap;
+font-family: Lato;
+font-size: 26px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 76.923% */
+}
+
+.headerBottom{
+    width: 1920px;
+/* height: 652px; */
+/* position: absolute; */
+left: -140px;
+bottom: -58px;
+background: #1A1F71;
+}
